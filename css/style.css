@@ -1,0 +1,206 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6,ul,li,a,p{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;  
+}
+body{
+    background: #252237;    
+}
+.header{
+ background: url(../img/fon1.png)no-repeat center/cover;
+ height: 100vh;   
+}
+.header-h1{
+    font-size: 30px;
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 50px;  
+}
+.h21{
+    font-size: 70px;
+    color: #fff;
+    max-width: 352px;
+    padding-bottom: 31px;
+    margin-top: 150px;  
+    
+}
+.rowp{
+    font-size: 20px;
+    color: #fff;
+    max-width: 433px;
+    margin-bottom: 75px;
+}
+.btn-1{
+    border-radius: 14px;
+    background: #E2521D;
+    box-shadow: 0px 0px 55px 0px rgba(202, 0, 80, 0.51);
+    color: #fff;
+    padding: 23px 71px;
+    border: none;
+    
+}
+
+/* header-end */
+/* select start */
+
+.section{
+    padding-top: 14px;
+}
+.sech1{
+    font-size: 50px;
+    color:#fff;
+    margin-bottom: 80px;
+}
+.secp:hover{
+    color: #E2521D;
+    
+}
+.secp{
+    color: #8997AB;
+    font-size: 25px;
+    transition: 0.5s;
+    margin-bottom: 17px;
+}
+.sec2h1{
+    color: #fff;
+    font-size: 50px;
+    padding-top: 25px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.sec2p:hover{
+    color: #E2521D;
+}
+.sec2p{
+    color: #fff;
+    font-size:18px;
+    padding-top: 25px;
+    transition: 0.5s;
+    margin-bottom: 70px;
+}
+
+.sec3h1{
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.accordion-item{
+    background: transparent !important;
+}
+.accordion-body{
+color: #8997AB;
+}
+.accordion-button{
+    color: floralwhite ;
+}
+.accordion-button{
+    background: #0E1B28;
+}
+
+.accordion-button:not(.collapsed){
+    background: #E2521D;
+    color: #fff;
+}
+
+.psec4:hover{
+    color: #E2521D;
+}
+.psec4{
+    font-size: 30px;
+    color: #ffffff;
+    transition: 0.5s;
+    margin-top:70px;
+}
+.accordion-button{
+    margin-bottom: 20px;
+}
+.divvx{
+    margin-bottom: 111px;
+}
+
+.img14{
+    width: 100%;   
+}
+
+.h1sec4{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+.h1sec5{
+    color: #fff;
+    font-size:50px;
+    margin-bottom:54px; 
+    text-align: center;
+}
+.sech11{
+    color: #fff;
+    font-size: 23px;
+    margin-top: 33px;
+    
+}
+.secp1{
+    color: #fff;
+    font-size: 18px;
+    margin-top: 30px;
+    transition: 0.5s; 
+    margin-bottom: 20px;
+}
+.secp1:hover{
+    color: #E2521D;
+}
+.sech12{
+    color: #fff;
+    font-size: 23px;
+    margin-top: 45px;;
+}
+.sech13{
+    color: #fff;
+    font-size: 23px;
+    margin-top: 33px;
+}
+.sech14{
+ font-size: 23px;
+ color: #fff;
+ margin-top: 35px;   
+}
+.img1{
+    margin-top: 62px;
+}
+.h2{
+    margin-top: 152px;
+    text-align: center;
+    color: #fff;
+    font-size: 23px; 
+    padding-top: 60px;
+}
+.p2{
+    color: #fff;
+    font-size: 18px;
+    margin-top: 15px;
+    text-align: center;
+    padding-bottom: 46px;
+}
+.divFoo{
+    margin-left: 200px;
+    margin-right: 196px;
+    background: #E2521D;
+    border-radius: 15px;
+}
+.div-p{
+    color: #fff;
+    font-size: 18px;
+    transform: 0.5s;
+    margin-top: 35px;
+}
